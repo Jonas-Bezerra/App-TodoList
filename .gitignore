@@ -1,0 +1,6 @@
+# Private Keys
+*.pem
+
+# Xcode
+xcuserdata/
+DerivedData/
